@@ -16,27 +16,27 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
@@ -49,27 +49,31 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </li>
+            <li>
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
@@ -82,27 +86,27 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
-              <AiOutlineCheck />
+              <AiOutlineCheck className="service__list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
