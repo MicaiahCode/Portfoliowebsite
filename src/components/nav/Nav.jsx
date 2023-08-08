@@ -40,9 +40,9 @@ const Nav = () => {
         <RiServiceLine />
       </a>
       <a
-        href="#contact"
-        onClick={() => setActiveNav("#contact")}
-        className={activeNav === "#contact" ? "active" : ""}
+        href="#contacts"
+        onClick={() => setActiveNav("#contacts")}
+        className={activeNav === "#contacts" ? "active" : ""}
       >
         <AiFillMessage />
       </a>
